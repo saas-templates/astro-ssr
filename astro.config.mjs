@@ -3,9 +3,6 @@ import tailwind from "@astrojs/tailwind";
 import svelte from "@astrojs/svelte";
 
 // https://astro.build/config
-import node from "@astrojs/node";
-
-// https://astro.build/config
 import deno from "@astrojs/deno";
 
 // https://astro.build/config
